@@ -3,7 +3,7 @@
   (:require
    [pallet.api :refer [group-spec server-spec node-spec plan-fn]]
    [pallet.crate.automated-admin-user :refer [automated-admin-user]]
-   [pallet.crate.mesos :refer [mesos-install mesos-master-config mesos-slave-config]]
+   [pallet.crate.mesos :refer [mesos-master-install mesos-slave-install]]
    [pallet.crate.haproxy :as haproxy]))
 
 

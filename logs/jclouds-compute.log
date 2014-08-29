@@ -1,0 +1,2 @@
+2014-08-29 18:35:37,414 WARN [operate-15] j.compute [SLF4JLogger.java:77] to avoid creating temporary keys in aws-ec2, use templateOption overrideLoginCredentialWith(id_rsa)
+2014-08-29 18:35:37,414 WARN [operate-14] j.compute [SLF4JLogger.java:77] to avoid creating temporary keys in aws-ec2, use templateOption overrideLoginCredentialWith(id_rsa)
