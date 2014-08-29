@@ -16,7 +16,8 @@
                   ;; resolved version
                   :exclusions [org.slf4j/slf4j-api]]
                  [org.apache.jclouds.driver/jclouds-sshj "1.7.2"]
-                 [ch.qos.logback/logback-classic "1.0.9"]]
+                 [ch.qos.logback/logback-classic "1.0.9"]
+                 [com.palletops/haproxy-crate "0.8.0-alpha.3"]]
   :profiles {:dev
              {:dependencies
               [[com.palletops/pallet "0.8.0-RC.9"
